@@ -68,7 +68,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Screenshots/dashboard.png)
+![Power BI Dashboard](DashBoards/dashboard.png)
 
 ---
 
