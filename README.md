@@ -82,7 +82,7 @@ The dashboard includes:
 
 ### Product Performance Analysis
 
-![Product Performance Analysis](./E-Commerce-Supply-Chain-Analysis/DashBoards/Products%20.png)
+![Product Performance Analysis](./E-Commerce-Supply-Chain-Analysis/DashBoards/Products.png)
 ### Orders and Delivery Analysis
 
 ![Orders and Delivery Analysis](./E-Commerce-Supply-Chain-Analysis/DashBoards/Orders.png)
