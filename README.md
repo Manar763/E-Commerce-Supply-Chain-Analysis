@@ -68,7 +68,25 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Power BI Dashboard](DashBoards/dashboard.png)
+### Executive Overview
+
+![Executive Overview](./DashBoards/OverView.png)
+
+### Sales and Profit Analysis
+
+![Sales and Profit Analysis](./DashBoards/Sales%20%26%20Profit.png)
+
+### Customer Analysis
+
+![Customer Analysis](./DashBoards/Customers.png)
+
+### Product Performance Analysis
+
+![Product Performance Analysis](./DashBoards/Products.png)
+
+### Orders and Delivery Analysis
+
+![Orders and Delivery Analysis](./DashBoards/Orders.png)
 
 ---
 
