@@ -70,24 +70,23 @@ The dashboard includes:
 
 ### Executive Overview
 
-![Executive Overview](./DashBoards/OverView.png)
+![Executive Overview](./E-Commerce-Supply-Chain-Analysis/DashBoards/OverView.png)
 
 ### Sales and Profit Analysis
 
-![Sales and Profit Analysis](./DashBoards/Sales%20%26%20Profit.png)
+![Sales and Profit Analysis](./E-Commerce-Supply-Chain-Analysis/DashBoards/Sales%20%26%20Profit.png)
 
 ### Customer Analysis
 
-![Customer Analysis](./DashBoards/Customers.png)
+![Customer Analysis](./E-Commerce-Supply-Chain-Analysis/DashBoards/Customers.png)
 
 ### Product Performance Analysis
 
-![Product Performance Analysis](./DashBoards/Products.png)
+![Product Performance Analysis](./E-Commerce-Supply-Chain-Analysis/DashBoards/Products.png)
 
 ### Orders and Delivery Analysis
 
-![Orders and Delivery Analysis](./DashBoards/Orders.png)
-
+![Orders and Delivery Analysis](./E-Commerce-Supply-Chain-Analysis/DashBoards/Orders.png)
 ---
 
 ## Tools and Technologies
