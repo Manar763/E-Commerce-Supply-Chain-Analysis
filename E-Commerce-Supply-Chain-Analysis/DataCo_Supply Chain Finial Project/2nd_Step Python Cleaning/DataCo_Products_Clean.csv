@@ -1,0 +1,119 @@
+Category Id,Category Name,Department Id,Department Name,Product Card Id,Product Name,Product Price
+73,Sporting Goods,2,Fitness,1360,Smart watch,327.75
+17,Strength Training Equipment,2,Fitness,365,Perfect Fitness Perfect Rip Deck,59.99
+29,Shoes & T-Shirts,3,Footwear,627,Under Armour Girls' Toddler Spine Surge Runni,39.99
+24,Golf Polos,5,Golf,502,Nike Men's Dri-FIT Victory Golf Polo,50.0
+13,Slides & Sandals,3,Footwear,278,Under Armour Men's Compression EV SL Slide,44.99
+12,Women's Running & Training Shoes,3,Footwear,249,Under Armour Women's Micro G Skulpt Running S,54.97
+9,Running Shoes & Shorts,3,Footwear,191,Nike Men's Free 5.0+ Running Shoe,99.99
+41,Golf Towels & Accessories,5,Golf,917,Glove It Women's Mod Oval 3-Zip Carry All Gol,21.99
+37,Golf Balls,5,Golf,828,Bridgestone e6 Straight Distance NFL San Dieg,31.99
+29,Shoes & T-Shirts,3,Footwear,642,Columbia Men's PFG Anchor Tough T-Shirt,30.0
+37,Golf Balls,5,Golf,818,Titleist Pro V1x Golf Balls,47.99
+37,Golf Balls,5,Golf,825,Bridgestone e6 Straight Distance NFL Tennesse,31.99
+38,Fitness Trackers & GPS Watches,10,Technology,306,Polar FT4 Heart Rate Monitor,89.99
+44,Camping & Hiking Gear,6,Outdoors,977,ENO Atlas Hammock Straps,29.99
+3,Soccer,3,Footwear,44,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99
+12,Women's Running & Training Shoes,3,Footwear,251,Brooks Women's Ghost 6 Running Shoe,89.99
+18,Football Cleats,3,Footwear,403,Nike Men's CJ Elite 2 TD Football Cleat,129.99
+43,Bikes,6,Outdoors,957,Diamondback Women's Serene Classic Comfort Bi,299.98
+65,Consumer Electronics,10,Technology,1352,Industrial consumer electronics,252.88
+62,Cameras,10,Technology,1349,Web Camera,452.04
+64,Computers,10,Technology,1351,Dell Laptop,1500.0
+4,Bikes & Ellipticals,2,Fitness,60,SOLE E25 Elliptical,999.99
+2,Training Gear,2,Fitness,24,Elevation Training Mask 2.0,79.99
+26,Soccer Fan Tees & Swimwear,4,Apparel,567,adidas Men's Germany Black Crest Away Tee,25.0
+40,Putter Grips,5,Golf,893,Team Golf Pittsburgh Steelers Putter Grip,24.99
+41,Golf Towels & Accessories,5,Golf,924,Glove It Urban Brick Golf Towel,15.99
+40,Putter Grips,5,Golf,905,Team Golf Texas Longhorns Putter Grip,24.99
+26,Soccer Fan Tees & Swimwear,4,Apparel,564,Nike Men's Deutschland Weltmeister Winners Bl,30.0
+40,Putter Grips,5,Golf,885,Team Golf St. Louis Cardinals Putter Grip,24.99
+76,Women's Clothing,4,Apparel,1363,Summer dresses,215.82
+66,Crafts,4,Apparel,1353,Porcelain crafts,461.48
+70,Men's Clothing,4,Apparel,1357,Men's gala suit,210.85
+40,Putter Grips,5,Golf,906,Team Golf Tennessee Volunteers Putter Grip,24.99
+40,Putter Grips,5,Golf,886,Team Golf San Francisco Giants Putter Grip,24.99
+41,Golf Towels & Accessories,5,Golf,926,Glove It Imperial Golf Towel,15.99
+6,Men's Slides,3,Footwear,116,Nike Men's Comfort 2 Slide,44.99
+11,Bags & Dumbbells,2,Fitness,235,Under Armour Hustle Storm Medium Duffle Bag,34.99
+13,Slides & Sandals,3,Footwear,273,Under Armour Kids' Mercenary Slide,27.99
+13,Slides & Sandals,3,Footwear,282,Under Armour Women's Ignite PIP VI Slide,31.99
+16,Training Shoes,3,Footwear,359,Nike Men's Free TR 5.0 TB Training Shoe,99.99
+26,Soccer Fan Tees & Swimwear,4,Apparel,565,adidas Youth Germany Black/Red Away Match Soc,70.0
+26,Soccer Fan Tees & Swimwear,4,Apparel,572,TYR Boys' Team Digi Jammer,39.99
+36,Golf Gloves,5,Golf,804,Glove It Women's Imperial Golf Glove,19.99
+37,Golf Balls,5,Golf,822,Titleist Pro V1x High Numbers Golf Balls,47.99
+37,Golf Balls,5,Golf,835,Bridgestone e6 Straight Distance NFL Carolina,31.99
+13,Slides & Sandals,3,Footwear,276,Under Armour Women's Ignite Slide,31.99
+37,Golf Balls,5,Golf,823,Titleist Pro V1x High Numbers Personalized Go,51.99
+10,Cycling & Fitness Gear,2,Fitness,203,GoPro HERO3+ Black Edition Camera,399.99
+17,Strength Training Equipment,2,Fitness,364,Total Gym 1400,299.99
+63,Children's Clothing,4,Apparel,1350,Children's heaters,357.1
+40,Putter Grips,5,Golf,897,Team Golf New England Patriots Putter Grip,24.99
+3,Soccer,3,Footwear,37,adidas Kids' F5 Messi FG Soccer Cleat,34.99
+9,Running Shoes & Shorts,3,Footwear,172,Nike Women's Tempo Shorts,30.0
+36,Golf Gloves,5,Golf,810,Glove It Women's Mod Oval Golf Glove,19.99
+37,Golf Balls,5,Golf,821,Titleist Pro V1 High Numbers Personalized Gol,51.99
+5,Basketball Shoes & T-Shirts,3,Footwear,93,Under Armour Men's Tech II T-Shirt,24.99
+60,Baby,4,Apparel,1347,Baby sweater,59.08
+38,Fitness Trackers & GPS Watches,10,Technology,305,Mio ALPHA Heart Rate Monitor/Sport Watch,199.0
+45,Gun Safes,6,Outdoors,1004,Field & Stream Sportsman 16 Gun Fire Safe,399.98
+59,Books,8,Book Shop,1346,Sports Books,31.08
+4,Bikes & Ellipticals,2,Fitness,58,Diamondback Boys' Insight 24 Performance Hybr,299.99
+38,Fitness Trackers & GPS Watches,10,Technology,311,Polar Loop Activity Tracker,109.95
+38,Fitness Trackers & GPS Watches,10,Technology,303,Garmin Forerunner 910XT GPS Watch,399.99
+67,DVDs,9,Discs Shop,1354,DVDs,164.38
+61,CDs,9,Discs Shop,1348,CDs of rock,11.29
+5,Basketball Shoes & T-Shirts,3,Footwear,78,Nike Kids' Grade School KD VI Basketball Shoe,99.99
+12,Women's Running & Training Shoes,3,Footwear,258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,94.99
+36,Golf Gloves,5,Golf,797,Hirzl Women's Soffft Flex Golf Glove,17.99
+44,Camping & Hiking Gear,6,Outdoors,981,The North Face Women's Recon Backpack,99.0
+68,Garden,6,Outdoors,1355,Lawn mower,532.58
+7,"Socks, Tees & Table Tennis",4,Apparel,135,Nike Dri-FIT Crew Sock 6 Pack,22.0
+7,"Socks, Tees & Table Tennis",4,Apparel,134,Nike Women's Legend V-Neck T-Shirt,25.0
+38,Fitness Trackers & GPS Watches,10,Technology,845,Garmin Approach S4 Golf GPS Watch,299.99
+44,Camping & Hiking Gear,6,Outdoors,982,insta-bed Neverflat Air Mattress,149.99
+29,Shoes & T-Shirts,3,Footwear,625,Nike Men's Kobe IX Elite Low Basketball Shoe,199.99
+72,Pet Supplies,11,Pet Shop,1359,Adult dog supplies,84.4
+69,Health and Beauty,12,Health and Beauty,1356,First aid kit,293.04
+41,Golf Towels & Accessories,5,Golf,607,Garmin Approach S3 Golf GPS Watch,249.99
+71,Music,9,Discs Shop,1358,Rock music,260.65
+75,Video Games,9,Discs Shop,1362,Fighting video games,39.75
+38,Fitness Trackers & GPS Watches,10,Technology,295,Fitbit The One Wireless Activity & Sleep Trac,99.95
+7,"Socks, Tees & Table Tennis",4,Apparel,127,Stiga Master Series ST3100 Competition Indoor,329.99
+4,Bikes & Ellipticals,2,Fitness,61,Diamondback Girls' Clarity 24 Hybrid Bike 201,299.99
+3,Soccer,3,Footwear,35,adidas Brazuca 2014 Official Match Ball,159.99
+38,Fitness Trackers & GPS Watches,10,Technology,858,GolfBuddy VT3 GPS Watch,199.99
+38,Fitness Trackers & GPS Watches,10,Technology,860,Bushnell Pro X7 Jolt Slope Rangefinder,599.99
+10,Cycling & Fitness Gear,2,Fitness,216,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,189.0
+2,Training Gear,2,Fitness,19,Nike Men's Fingertrap Max Training Shoe,124.99
+11,Bags & Dumbbells,2,Fitness,226,Bowflex SelectTech 1090 Dumbbells,599.99
+10,Cycling & Fitness Gear,2,Fitness,208,SOLE E35 Elliptical,1999.99
+36,Golf Gloves,5,Golf,793,Hirzl Women's Hybrid Golf Glove,14.99
+36,Golf Gloves,5,Golf,792,Hirzl Men's Hybrid Golf Glove,14.99
+35,Golf Bags & Carts,5,Golf,786,TaylorMade 2014 Purelite Stand Bag,179.99
+35,Golf Bags & Carts,5,Golf,778,Bag Boy Beverage Holder,24.99
+35,Golf Bags & Carts,5,Golf,777,Bag Boy M330 Push Cart,79.99
+35,Golf Bags & Carts,5,Golf,775,Clicgear 8.0 Shoe Brush,9.99
+35,Golf Bags & Carts,5,Golf,773,Titleist Small Wheeled Travel Cover,249.99
+35,Golf Bags & Carts,5,Golf,771,Clicgear Rovic Cooler Bag,39.99
+35,Golf Bags & Carts,5,Golf,768,Titleist Club Glove Travel Cover,299.99
+34,Golf Shoes,5,Golf,743,Ogio Race Golf Shoes,169.99
+33,Women's Golf Apparel,5,Golf,730,LIJA Women's Argyle Golf Polo,80.0
+33,Women's Golf Apparel,5,Golf,728,LIJA Women's Eyelet Sleeveless Golf Polo,65.0
+33,Women's Golf Apparel,5,Golf,725,LIJA Women's Button Golf Dress,108.0
+33,Women's Golf Apparel,5,Golf,724,LIJA Women's Mid-Length Panel Golf Shorts,100.0
+32,Women's Hybrids & Wedges,5,Golf,715,TaylorMade Women's RBZ SL Rescue,129.99
+32,Women's Hybrids & Wedges,5,Golf,705,Cleveland Golf Women's 588 RTX CB Satin Chrom,119.99
+32,Women's Hybrids & Wedges,5,Golf,703,Top Flite Women's 2014 XL Hybrid,19.99
+31,Putters & Wedges,5,Golf,691,MDGolf Pittsburgh Penguins Putter,79.99
+31,Putters & Wedges,5,Golf,677,TaylorMade White Smoke IN-12 Putter,99.99
+31,Putters & Wedges,5,Golf,671,Cleveland Golf Collegiate My Custom Wedge 588,209.99
+30,Trail & Hiking Shoes,3,Footwear,666,Merrell Men's All Out Flash Trail Running Sho,109.99
+30,Trail & Hiking Shoes,3,Footwear,652,Merrell Women's Grassbow Sport Waterproof Hik,129.99
+30,Trail & Hiking Shoes,3,Footwear,647,Merrell Women's Siren Mid Waterproof Hiking B,134.99
+30,Trail & Hiking Shoes,3,Footwear,646,Merrell Women's Grassbow Sport Hiking Shoe,99.99
+74,Toys,7,Fan Shop,1361,Toys,11.54
+48,Kayaks,6,Outdoors,1073,Pelican Sunstream 100 Kayak,199.99
+48,Kayaks,6,Outdoors,1059,Pelican Maverick 100X Kayak,349.99
+46,Life Vests,6,Outdoors,1014,O'Brien Men's Neoprene Life Vest,49.98
